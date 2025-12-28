@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Akashsingh.jpg" width="480" />
+  <img src="Akashsingh.jpg" width="100%" />
 </p>
 
 
