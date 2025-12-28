@@ -48,6 +48,12 @@
 
 
 
+### 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/akash-singh-347a8a318/
+- 🐙 GitHub: https://github.com/AKASHPATEL-89
+- 📧 Email:akashpatel895345@gmail.com
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-singh-347a8a318/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
@@ -66,24 +72,3 @@
   </a>
 </p>
 
-
-### 📫 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/akash-singh-347a8a318/
-- 🐙 GitHub: https://github.com/AKASHPATEL-89
-- 📧 Email:akashpatel895345@gmail.com
-
-
-<!--
-**AKASHPATEL-89/AKASHPATEL-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
