@@ -44,7 +44,28 @@
 ### 🎯 Career Goals
 - Become a skilled software engineer  
 - Build scalable and impactful applications  
-- Contribute to open-source projects  
+- Contribute to open-source projects
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akash-singh-347a8a318/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+  <a href="https://wa.me/918953455851" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp.png"/>
+  </a>
+  <a href="https://github.com/AKASHPATEL-89" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/00bcd4/github.png"/>
+  </a>
+  <a href="https://your-portfolio-link" target="_blank">
+    <img src="https://img.icons8.com/color/48/domain.png"/>
+  </a>
+  <a href="https://www.youtube.com/@your-channel" target="_blank">
+    <img src="https://img.icons8.com/color/48/youtube-play.png"/>
+  </a>
+</p>
+
 
 ### 📫 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/akash-singh-347a8a318/
