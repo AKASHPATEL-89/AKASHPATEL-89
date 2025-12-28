@@ -24,6 +24,19 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  size=24&
+  pause=1000&
+  color=00C2FF&
+  center=true&
+  vCenter=true&
+  width=700&
+  lines=Hi%2C+I'm+Akash+Singh;B.Tech+Student+%7C+Aspiring+Software+Developer;Passionate+about+Coding+%26+Web+Development" />
+</p>
+
+
 
 ## 👋 Hi, I'm Akash Singh  
 
