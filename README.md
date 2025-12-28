@@ -58,10 +58,10 @@
   <a href="https://github.com/AKASHPATEL-89" target="_blank">
     <img src="https://img.icons8.com/ios-filled/48/00bcd4/github.png"/>
   </a>
-  <a href="https://your-portfolio-link" target="_blank">
+  <a href="https://personalportfolio-xi-one.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/color/48/domain.png"/>
   </a>
-  <a href="https://www.youtube.com/@your-channel" target="_blank">
+  <a href="https://www.youtube.com/@AKASHSINGH-00297" target="_blank">
     <img src="https://img.icons8.com/color/48/youtube-play.png"/>
   </a>
 </p>
