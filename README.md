@@ -4,14 +4,12 @@
 
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
 
-<h3 align="center">
-B.Tech Student | Aspiring Software Developer & Data Analyst
-</h3>
+<h3 align="center">B.Tech Student | Aspiring Software Developer & Data Analyst</h3>
 
 <p align="center">
-  💻 Building Projects &nbsp; | &nbsp;
-  📊 Exploring Data &nbsp; | &nbsp;
-  🚀 Learning New Technologies
+  💻 Building Projects &nbsp; • &nbsp;
+  📊 Exploring Data &nbsp; • &nbsp;
+  🚀 Learning Every Day
 </p>
 
 ---
@@ -20,111 +18,103 @@ B.Tech Student | Aspiring Software Developer & Data Analyst
 
 🎓 B.Tech student passionate about **Software Development, Data Analytics, and Problem Solving**.
 
-💻 I enjoy building projects and learning technologies that help me create useful and scalable applications.
+💻 I enjoy building real-world projects and exploring technologies that help create useful and scalable applications.
 
-📊 I am also exploring **Data Analytics and Data Visualization** using tools such as **Python, Power BI, and SQL**.
+📊 Currently expanding my skills in **Data Analytics, Data Visualization, Python, Power BI, and SQL**.
 
-🚀 Currently focused on improving my technical skills, building real-world projects, and growing as a developer.
+🚀 My goal is to continuously learn, build impactful projects, and grow as a technology professional.
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp" />
 </p>
 
 ### 🌐 Web Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask" />
 </p>
 
 ### 📊 Data Analytics
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="50" alt="Pandas" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="50" alt="NumPy" />
-  <img src="https://skillicons.dev/icons?i=jupyter" height="50" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" height="50" alt="Power BI" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" height="48" alt="Power BI" />
 </p>
 
 ### 🗄️ Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### ⚙️ Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws" />
 </p>
 
 ---
 
 ## 🚀 Currently Learning
 
-- Full-Stack Web Development
-- Backend Development
-- Data Structures & Algorithms
-- Data Analytics
-- Power BI & Data Visualization
-- SQL and Database Management
-
----
-
-## 🎯 Career Goals
-
-- 💻 Become a skilled Software Developer
-- 📊 Build strong skills in Data Analytics
-- 🚀 Develop scalable and impactful applications
-- 🌱 Continuously learn new technologies
-- 🤝 Contribute to Open Source Projects
+- 🌐 Full-Stack Web Development
+- ⚙️ Backend Development
+- 🧮 Data Structures & Algorithms
+- 📊 Data Analytics & Visualization
+- 📈 Power BI & DAX
+- 🗄️ SQL & Database Management
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🎵 Spotify Analytics Dashboard
-Interactive Power BI dashboard analyzing:
+
+📊 An interactive **Power BI dashboard** for analyzing Spotify music data.
+
+**Key Analysis:**
 
 - Tracks, Artists & Albums
-- Music Genres
+- Genre Distribution
 - Track Popularity
 - Explicit vs Non-Explicit Content
 - Danceability & Energy
 - Audio Features Analysis
 
 ### 🪔 Diwali Sales Analysis
-End-to-end data analysis project using **Python and Power BI**.
 
-- Data Cleaning using Pandas
+📈 End-to-end sales analysis using **Python and Power BI**.
+
+**Key Analysis:**
+
+- Data Cleaning with Pandas
 - Exploratory Data Analysis
 - Customer Demographics
 - Sales & Product Analysis
+- State & Occupation Analysis
 - Interactive Power BI Dashboard
 
 ### 💻 More Projects
 
-Check out my repositories to explore more of my work!
+Explore my repositories to see more projects and experiments.
 
-➡️ [View My GitHub Repositories](https://github.com/AKASHPATEL-89?tab=repositories)
+➡️ **[View All Repositories](https://github.com/AKASHPATEL-89?tab=repositories)**
+
+---
+
+## 🎯 Goals
+
+- 💻 Become a skilled Software Developer
+- 📊 Build strong expertise in Data Analytics
+- 🚀 Develop scalable and impactful applications
+- 🌱 Continuously improve my technical skills
+- 🤝 Contribute to Open Source
 
 ---
 
@@ -161,5 +151,5 @@ Check out my repositories to explore more of my work!
 </p>
 
 <p align="center">
-  🚀 <i>Learning, Building, and Growing Every Day.</i>
+  🚀 <i>Learning • Building • Growing</i>
 </p>
