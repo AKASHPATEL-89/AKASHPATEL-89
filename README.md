@@ -27,43 +27,54 @@ B.Tech Student | Aspiring Software Developer & Data Analyst
 🚀 Currently focused on improving my technical skills, building real-world projects, and growing as a developer.
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
 </p>
 
 ### 🌐 Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask" />
 </p>
 
 ### 📊 Data Analytics
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="50" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="50" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=jupyter" height="50" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" height="50" alt="Power BI" />
 </p>
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
 </p>
 
 ### ⚙️ Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
 </p>
-
-
 
 ---
 
